@@ -156,6 +156,7 @@
     <ClInclude Include="IbDllHijackLib\include\IbDllHijackLib\Dlls\netutils.h" />
     <ClInclude Include="IbDllHijackLib\include\IbDllHijackLib\Dlls\srvcli.h" />
     <ClInclude Include="IbDllHijackLib\include\IbDllHijackLib\Dlls\version.h" />
+    <ClInclude Include="IbDllHijackLib\include\IbDllHijackLib\Dlls\WindowsCodecs.h" />
     <ClInclude Include="IbDllHijackLib\include\IbDllHijackLib\Dlls\winmm.h" />
     <ClInclude Include="IbDllHijackLib\include\IbDllHijackLib\ExportForward.h" />
     <ClInclude Include="pch.h" />
