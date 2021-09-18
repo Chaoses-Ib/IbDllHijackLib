@@ -6,6 +6,7 @@
 #define IB_HIJACK_DLL "version.dll"
 #define IB_HIJACK_DLL_NOEXT "version"
 #define IB_HIJACK_DLL_DIR "C:\\Windows\\System32"
+#define IB_HIJACK_DLL_DESC "Version Checking and File Installation Libraries"
 
 IB_HIJACK_EXPORT(1, GetFileVersionInfoA)
 IB_HIJACK_EXPORT(2, GetFileVersionInfoByHandle)

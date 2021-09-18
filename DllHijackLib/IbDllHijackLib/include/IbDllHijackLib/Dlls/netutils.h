@@ -6,6 +6,7 @@
 #define IB_HIJACK_DLL "netutils.dll"
 #define IB_HIJACK_DLL_NOEXT "netutils"
 #define IB_HIJACK_DLL_DIR "C:\\Windows\\System32"
+#define IB_HIJACK_DLL_DESC "Net Win32 API Helpers DLL"
 
 IB_HIJACK_EXPORT(1, NetApiBufferAllocate)
 IB_HIJACK_EXPORT(2, NetApiBufferFree)

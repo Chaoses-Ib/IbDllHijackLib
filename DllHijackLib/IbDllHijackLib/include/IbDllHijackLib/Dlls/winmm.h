@@ -6,6 +6,7 @@
 #define IB_HIJACK_DLL "winmm.dll"
 #define IB_HIJACK_DLL_NOEXT "winmm"
 #define IB_HIJACK_DLL_DIR "C:\\Windows\\System32"
+#define IB_HIJACK_DLL_DESC "MCI API DLL"
 
 IB_HIJACK_EXPORT(3, mciExecute)
 IB_HIJACK_EXPORT(4, CloseDriver)
