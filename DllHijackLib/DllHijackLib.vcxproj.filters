@@ -36,6 +36,9 @@
     <ClInclude Include="IbDllHijackLib\include\IbDllHijackLib\Default.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="IbDllHijackLib\include\IbDllHijackLib\Dlls\netutils.h">
+      <Filter>Header Files\Dlls</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DllHijackLib.cpp">
