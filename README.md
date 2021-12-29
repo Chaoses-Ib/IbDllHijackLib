@@ -25,5 +25,6 @@ BOOL APIENTRY DllMain( HMODULE hModule,
 
 ## Projects using this library
 * [IbDOpusExt](https://github.com/Chaoses-Ib/IbDOpusExt)
+* [IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)
 * [IbLogiSoftExt](https://github.com/Chaoses-Ib/IbLogiSoftExt)
 * [IbOneNoteExt](https://github.com/Chaoses-Ib/IbOneNoteExt)
