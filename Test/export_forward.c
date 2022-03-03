@@ -1,7 +1,7 @@
 ﻿#include <Windows.h>
 
-#include "IbDllHijackLib/ExportForward.h"
-#include "IbDllHijackLib/Dlls/version.h"
+#include "../include/export_forward.h"
+#include "../include/dlls/version.h"
 
 BOOL APIENTRY DllMain( HMODULE hModule,
                        DWORD  ul_reason_for_call,

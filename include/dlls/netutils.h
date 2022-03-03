@@ -1,6 +1,6 @@
 ﻿#pragma once
 #ifndef IB_HIJACK_EXPORT
-#include "../Default.h"
+#include "../default.h"
 #endif
 
 #define IB_HIJACK_DLL "netutils.dll"
