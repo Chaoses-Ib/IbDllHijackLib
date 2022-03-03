@@ -4,7 +4,7 @@ A C library for Windows DLL hijacking.
 ## Usage
 ```cpp
 // Export functions of version.dll (by export forwarding)
-#include "IbDllHijackLib/include/dlls/version.h"
+#include <IbDllHijack/dlls/version.h>
 
 BOOL APIENTRY DllMain( HMODULE hModule,
                        DWORD  ul_reason_for_call,
