@@ -23,13 +23,12 @@ BOOL APIENTRY DllMain( HMODULE hModule,
 }
 ```
 
-## Building Tests
+## Build the test
 ```cmd
 vcpkg install boost-test
-cd test
 mkdir build
 cd build
-cmake ..
+cmake .. -DCMAKE_TOOLCHAIN_FILE="C:\...\vcpkg\scripts\buildsystems\vcpkg.cmake"
 ```
 
 ## Projects using this library
