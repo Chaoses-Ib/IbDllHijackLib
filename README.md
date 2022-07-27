@@ -23,6 +23,8 @@ BOOL APIENTRY DllMain( HMODULE hModule,
 }
 ```
 
+You can use the [generator](generator/README.md) to generate header files for any DLL.
+
 ## Build the test
 ```cmd
 vcpkg install boost-test
